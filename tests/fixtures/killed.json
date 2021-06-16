@@ -1,0 +1,16 @@
+{
+    "killed": [
+        {
+            "death_date": "Tue, 15 Jun 2021 20:28:01 GMT",
+            "name": "volstagg",
+            "race": "asgardian",
+            "victory": 4
+        },
+        {
+            "death_date": "Tue, 15 Jun 2021 20:27:24 GMT",
+            "name": "frigga",
+            "race": "asgardian",
+            "victory": 3
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "characters": [
+        {
+            "defeat": 3,
+            "name": "iron man",
+            "race": "human",
+            "victory": 7
+        },
+        {
+            "defeat": 3,
+            "name": "black widow",
+            "race": "human",
+            "victory": 6
+        },
+        {
+            "defeat": 6,
+            "name": "wolverine",
+            "race": "mutant",
+            "victory": 8
+        },
+        {
+            "defeat": 3,
+            "name": "volstagg",
+            "race": "asgardian",
+            "victory": 4
+        },
+        {
+            "defeat": 6,
+            "name": "cyclops",
+            "race": "mutant",
+            "victory": 4
+        },
+        {
+            "defeat": 6,
+            "name": "frigga",
+            "race": "asgardian",
+            "victory": 3
+        }
+    ]
+}
